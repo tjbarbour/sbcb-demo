@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://tjbarbour.github.io/sbcb-demo/"
 languageCode = "en-us"
 title = "T.J. Barbour"
 theme = "startbootstrap-clean-blog"
