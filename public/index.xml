@@ -27,5 +27,15 @@
       <description></description>
     </item>
     
+    <item>
+      <title>about</title>
+      <link>http://tjbarbour.github.io/sbcb-demo/about/</link>
+      <pubDate>Thu, 24 Dec 2015 22:35:36 -0800</pubDate>
+      
+      <guid>http://tjbarbour.github.io/sbcb-demo/about/</guid>
+      <description>&lt;p&gt;Just testing&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
