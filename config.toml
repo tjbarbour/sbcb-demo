@@ -28,10 +28,6 @@ theme = "startbootstrap-clean-blog"
   url = "/"
   weight = -200
 [[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = -180
-[[menu.main]]
   name = "Archives"
   url = "/post/"
   weight = -180
